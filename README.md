@@ -2,7 +2,7 @@
 
 - Yes, my username is just "royanha236" backwards
 - I'm a college student
-- I'm currently learning C/C++
+- I'm currently learning C/C++ and WebDev
 - You can reach me on Instagram (@royan_236)
 <!--
 **632ahnayor/632ahnayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
